@@ -1,1 +1,1 @@
-Revistas RPI carregadas do site do INPI
+Revistas de Patentes INPI
